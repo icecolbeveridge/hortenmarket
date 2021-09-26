@@ -1,4 +1,4 @@
-package hortenmarket
+package github.com/icecolbeveridge/hortenmarket
 
 import (
 	"fmt"
